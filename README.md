@@ -1,7 +1,7 @@
 # 11 Express.js: Note Taker
 
 ## Deployed Application
-[Click here to got to deployed site](https://to-do-list-sydkb-f110e2d2060f.herokuapp.com/)
+[Click here to go to deployed site](https://to-do-list-sydkb-f110e2d2060f.herokuapp.com/)
 ![A screenshot displaying the layout of the application with example notes](./Assets/Deployment.png)
 
 
